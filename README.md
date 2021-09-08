@@ -1,2 +1,2 @@
 # Machine-Learning-Tasks
-This Repository contains different tasks of Machine Learning datasets using various algorithms
+This Repository contains different skill activities of datasets by implementing various algorithms.
